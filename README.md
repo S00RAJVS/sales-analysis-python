@@ -1,4 +1,3 @@
-````
 # 📊 Sales Trend Analysis with Python
 
 This project demonstrates **time-series trend analysis** using **Pandas, Seaborn, and Matplotlib**.  
@@ -15,20 +14,21 @@ The dataset (`sales_data.csv`) contains two columns:
 
 ## 🚀 How to Run
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
    cd YOUR_REPO_NAME
-````
+   ````
+
 
 2. Install dependencies:
 
-   ```bash
+   ```
    pip install pandas matplotlib seaborn
    ```
 
 3. Run the script:
 
-   ```bash
+   ```
    python trend_analysis.py
    ```
 
@@ -63,9 +63,3 @@ The dataset (`sales_data.csv`) contains two columns:
 ## 👤 Author
 
 Sooraj VS
-
-```
-
----
-
-
