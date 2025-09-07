@@ -15,8 +15,8 @@ The dataset (`sales_data.csv`) contains two columns:
 ## 🚀 How to Run
 1. Clone this repository:
    ```
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/S00RAJVS/sales-analysis-python.git
+   cd sales-analysis-python
    ````
 
 
